@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-12T22:13:12Z" name="Default suite" finished-at="2021-04-12T22:13:23Z" duration-ms="10452">
+    <groups>
+    </groups>
+    <test started-at="2021-04-12T22:13:12Z" name="Default test" finished-at="2021-04-12T22:13:23Z" duration-ms="10452">
+      <class name="test.TestActitimeDeleteLeaveType">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.TestActitimeDeleteLeaveType@22e357dc]" started-at="2021-04-12T22:13:12Z" name="openBrowser" finished-at="2021-04-12T22:13:16Z" duration-ms="3779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="submitdata()[pri:0, instance:test.TestActitimeDeleteLeaveType@22e357dc]" started-at="2021-04-12T22:13:16Z" name="submitdata" finished-at="2021-04-12T22:13:22Z" duration-ms="5945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitdata -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TestActitimeDeleteLeaveType@22e357dc]" started-at="2021-04-12T22:13:22Z" name="closeBrowser" finished-at="2021-04-12T22:13:23Z" duration-ms="688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TestActitimeDeleteLeaveType -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
