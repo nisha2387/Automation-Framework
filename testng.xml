@@ -4,9 +4,17 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="test.TestActitimeloginlogout"/>
+      <class name="test.PrintStatement"/>
       <class name="test.TestFacebookSignup"/>
+      <class name="pom.PomActitimeCreateALeaveTypeTest"/>
+      <class name="test.TestActitimeEditTypeofwork"/>
+      <class name="test.TestActitimeEditLeaveType"/>
       <class name="test.TestFramework"/>
+      <class name="test.TestActitimeDeleteLeaveType"/>
+      <class name="test.TestActitimeDeleteTypeOfWork"/>
+      <class name="test.TestActitimeCreateAtypeOfWork"/>
       <class name="test.TestActitimeCreateACustomer"/>
+      <class name="test.TestActitimeCreateALeaveType"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
